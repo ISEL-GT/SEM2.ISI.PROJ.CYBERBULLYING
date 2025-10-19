@@ -3,25 +3,18 @@
 </p>
 
 
-## PROJECT NAME
+## CYBERBULLYING DATABASE
 
 ### Summary
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
+> O objetivo deste projeto é desenvolver uma base de dados para o suporte de uma plataforma de monitorização e gestão de casos de
+cyberbullying, focada na recolha de interações online, sinalização de comportamentos abusivos, gestão de
+casos e apoio a utilizadores afetados.
 
 
 ---
 
 ### **Requirements**
-- **Kotlin Compiler**: [Download here](https://kotlinlang.org/docs/command-line.html)
-- **JDK 22**: [Download here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
-- Any other software needed to run the project.
-
----
-
-### Acknowledgements
-- Mention any people that greatly helped us complete the project, and/or made it possible.
-- Mention any resources that we used to complete this project.
+- **PostgreSQL 16+**: [Download aqui](https://www.postgresql.org/download/)
 
 ---
 
@@ -30,5 +23,4 @@
 | Contributor        | Email                      |
 |--------------------|----------------------------|
 | Alexandre Silva    | alexandresilva.coding@gmail.com     |
-| Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
 
